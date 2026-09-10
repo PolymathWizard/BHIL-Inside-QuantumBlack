@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 28" font-family="IBM Plex Sans, Arial, sans-serif">
+<rect width="224" height="28" fill="none"/>
+<rect width="84" height="28" rx="4" fill="#1C1C2E"/>
+<rect x="84" width="140" height="28" rx="4" fill="#1B4FD8"/>
+<rect x="84" width="8" height="28" fill="#1B4FD8"/>
+<rect x="80" width="8" height="28" fill="#1C1C2E"/>
+<text x="42.0" y="19" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">LICENSE</text>
+<text x="154.0" y="19" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">MIT + CC BY 4.0</text>
+</svg>

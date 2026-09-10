@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="IBM Plex Sans, Arial, sans-serif">
+<rect width="900" height="560" fill="#F7F4EC"/>
+<text x="28" y="34" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#1B4FD8" letter-spacing="3">REPORT SAMPLE  |  EXHIBIT ANATOMY  |  BHIL RECONSTRUCTION</text>
+<rect x="190" y="60" width="560" height="400" rx="10" fill="#FFFFFF" stroke="#E2DCCB"/>
+<text x="218" y="104" font-size="19" font-weight="700" fill="#1C1C2E">Gen AI adoption grows, but measured</text>
+<text x="218" y="128" font-size="19" font-weight="700" fill="#1C1C2E">impact remains limited</text>
+<text x="218" y="150" font-size="12" font-style="italic" fill="#6B7280">Share of respondents, illustrative reconstruction</text>
+<line x1="218" y1="162" x2="722" y2="162" stroke="#1C1C2E" stroke-width="1.5"/>
+<text x="370" y="212" font-size="12" fill="#1C1C2E" text-anchor="end">Using gen AI regularly</text>
+<rect x="382" y="200" width="231.4" height="16" fill="#6B7280" opacity="0.75"/>
+<text x="621.4" y="213" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#6B7280">89%</text>
+<rect x="382" y="222" width="96.2" height="16" fill="#8A2331"/>
+<text x="486.2" y="235" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#8A2331">37%</text>
+<text x="370" y="284" font-size="12" fill="#1C1C2E" text-anchor="end">Seeing material P and L impact</text>
+<rect x="382" y="272" width="88.4" height="16" fill="#6B7280" opacity="0.75"/>
+<text x="478.4" y="285" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#6B7280">34%</text>
+<rect x="382" y="294" width="31.200000000000003" height="16" fill="#8A2331"/>
+<text x="421.2" y="307" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#8A2331">12%</text>
+<text x="370" y="356" font-size="12" fill="#1C1C2E" text-anchor="end">Scaling across functions</text>
+<rect x="382" y="344" width="72.8" height="16" fill="#6B7280" opacity="0.75"/>
+<text x="462.8" y="357" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#6B7280">28%</text>
+<rect x="382" y="366" width="20.8" height="16" fill="#8A2331"/>
+<text x="410.8" y="379" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#8A2331">8%</text>
+<line x1="218" y1="414" x2="722" y2="414" stroke="#E2DCCB"/>
+<text x="218" y="434" font-family="IBM Plex Mono, Consolas, monospace" font-size="10" fill="#6B7280">SOURCE  BHIL STENCIL STUDY  |  PUBLIC-SOURCE PATTERN RECONSTRUCTION</text>
+<circle cx="40" cy="120" r="14" fill="#1B4FD8"/>
+<text x="40" y="125" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="74" y="118" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="start">Full-sentence</text>
+<text x="74" y="134" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="start">conclusion title</text>
+<line x1="58" y1="120" x2="220" y2="110" stroke="#6B9EFF" stroke-width="1.4" stroke-dasharray="4 3"/>
+<circle cx="40" cy="250" r="14" fill="#1B4FD8"/>
+<text x="40" y="255" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="74" y="248" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="start">Single dominant</text>
+<text x="74" y="264" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="start">comparison</text>
+<line x1="58" y1="250" x2="385" y2="280" stroke="#6B9EFF" stroke-width="1.4" stroke-dasharray="4 3"/>
+<circle cx="40" cy="380" r="14" fill="#1B4FD8"/>
+<text x="40" y="385" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="74" y="378" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="start">Disciplined</text>
+<text x="74" y="394" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="start">source line</text>
+<line x1="58" y1="380" x2="220" y2="430" stroke="#6B9EFF" stroke-width="1.4" stroke-dasharray="4 3"/>
+<circle cx="800" cy="190" r="14" fill="#1B4FD8"/>
+<text x="800" y="195" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="766" y="188" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="end">Direct labels,</text>
+<text x="766" y="204" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="end">no legend hunt</text>
+<line x1="782" y1="190" x2="710" y2="208" stroke="#6B9EFF" stroke-width="1.4" stroke-dasharray="4 3"/>
+<circle cx="800" cy="330" r="14" fill="#1B4FD8"/>
+<text x="800" y="335" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="766" y="328" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="end">Method note</text>
+<text x="766" y="344" font-size="12.5" font-weight="600" fill="#1C1C2E" text-anchor="end">when needed</text>
+<line x1="782" y1="330" x2="710" y2="360" stroke="#6B9EFF" stroke-width="1.4" stroke-dasharray="4 3"/>
+<text x="28" y="520" font-size="13" fill="#1C1C2E">The exhibit is the atomic unit: one idea, one conclusion, one proof.</text>
+<text x="28" y="542" font-family="IBM Plex Mono, Consolas, monospace" font-size="10" fill="#6B7280">BHIL INSIDE QUANTUMBLACK STUDY  |  HUMAN-DIRECTED. AI-ENABLED. COMMERCIALLY TESTED.</text>
+</svg>

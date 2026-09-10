@@ -22,6 +22,16 @@ DERIVED = [
     "docs/assets/narrative-flow.svg",
     "docs/assets/framework-placement.svg",
     "docs/assets/vocabulary-migration.svg",
+    "docs/assets/readme-banner.svg",
+    "docs/assets/readme-badge-gates.svg",
+    "docs/assets/readme-badge-license.svg",
+    "docs/assets/readme-badge-artifacts.svg",
+    "docs/assets/readme-badge-python.svg",
+    "docs/assets/readme-sample-exhibit.svg",
+    "docs/assets/readme-page-wireframe.svg",
+    "docs/assets/readme-evidence-waffle.svg",
+    "docs/assets/readme-artifact-mix.svg",
+    "docs/assets/readme-stencil-pipeline.svg",
 ]
 MANIFEST = "data/drift_manifest.json"
 

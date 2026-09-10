@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" font-family="IBM Plex Sans, Arial, sans-serif">
+<rect width="1200" height="150" fill="#1C1C2E"/>
+<text x="28" y="34" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#6B9EFF" letter-spacing="3">THE STENCIL PIPELINE BEHIND THIS REPO</text>
+<rect x="28" y="58" width="112" height="40" rx="6" fill="#1B4FD8"/>
+<text x="84.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-1 SCOPE</text>
+<path d="M 143 78 l 10 0 m -4 -4 l 4 4 l -4 4" stroke="#6B9EFF" stroke-width="2" fill="none"/>
+<rect x="158" y="58" width="112" height="40" rx="6" fill="#1B4FD8"/>
+<text x="214.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-2 SWEEP</text>
+<path d="M 273 78 l 10 0 m -4 -4 l 4 4 l -4 4" stroke="#6B9EFF" stroke-width="2" fill="none"/>
+<rect x="288" y="58" width="112" height="40" rx="6" fill="#1B4FD8"/>
+<text x="344.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-3 LIBRARY</text>
+<path d="M 403 78 l 10 0 m -4 -4 l 4 4 l -4 4" stroke="#6B9EFF" stroke-width="2" fill="none"/>
+<rect x="418" y="58" width="112" height="40" rx="6" fill="#1B4FD8"/>
+<text x="474.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-4 NARRATIVE</text>
+<path d="M 533 78 l 10 0 m -4 -4 l 4 4 l -4 4" stroke="#6B9EFF" stroke-width="2" fill="none"/>
+<rect x="548" y="58" width="112" height="40" rx="6" fill="#1B4FD8"/>
+<text x="604.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-5 FRAMEWORKS</text>
+<path d="M 663 78 l 10 0 m -4 -4 l 4 4 l -4 4" stroke="#6B9EFF" stroke-width="2" fill="none"/>
+<rect x="678" y="58" width="112" height="40" rx="6" fill="#1B4FD8"/>
+<text x="734.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-6 VISUAL</text>
+<path d="M 793 78 l 10 0 m -4 -4 l 4 4 l -4 4" stroke="#6B9EFF" stroke-width="2" fill="none"/>
+<rect x="808" y="58" width="112" height="40" rx="6" fill="#1B4FD8"/>
+<text x="864.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-7 LEXICON</text>
+<path d="M 923 78 l 10 0 m -4 -4 l 4 4 l -4 4" stroke="#6B9EFF" stroke-width="2" fill="none"/>
+<rect x="938" y="58" width="112" height="40" rx="6" fill="#1B4FD8"/>
+<text x="994.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-8 RECIPES</text>
+<path d="M 1053 78 l 10 0 m -4 -4 l 4 4 l -4 4" stroke="#6B9EFF" stroke-width="2" fill="none"/>
+<rect x="1068" y="58" width="112" height="40" rx="6" fill="#3E7A55"/>
+<text x="1124.0" y="82" font-family="IBM Plex Mono, Consolas, monospace" font-size="10.5" fill="#FFFFFF" text-anchor="middle">SP-10 GATE</text>
+<text x="28" y="128" font-family="IBM Plex Mono, Consolas, monospace" font-size="10" fill="#6B7280">DISPOSITION: SHIP  |  32 ARTIFACTS AGAINST A 20 MINIMUM  |  INFERENCE SHARE 22 PERCENT AGAINST A 40 PERCENT HOLD TRIGGER</text>
+</svg>

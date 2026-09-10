@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" font-family="IBM Plex Sans, Arial, sans-serif">
+<rect width="1200" height="300" fill="#1C1C2E"/>
+<rect x="0" y="0" width="10" height="300" fill="#1B4FD8"/>
+<circle cx="40" cy="36" r="4" fill="#6B9EFF"/>
+<circle cx="56" cy="36" r="4" fill="#6B9EFF"/>
+<circle cx="72" cy="36" r="4" fill="#6B9EFF"/>
+<text x="40" y="86" font-family="IBM Plex Mono, Consolas, monospace" font-size="15" fill="#6B9EFF" letter-spacing="4">BHIL VISUAL INTELLIGENCE STUDY</text>
+<text x="38" y="150" font-size="52" font-weight="700" fill="#FFFFFF">Inside QuantumBlack</text>
+<text x="40" y="188" font-size="19" font-style="italic" fill="#C9D4F5">A designer field guide to how McKinsey QuantumBlack strategically communicates.</text>
+<text x="40" y="224" font-family="IBM Plex Mono, Consolas, monospace" font-size="12" fill="#6B7280">32 ARTIFACTS CODED  |  12 GUIDE CHAPTERS  |  3 BUILD RECIPES  |  5 EVIDENCE TIERS  |  0 TRADE DRESS</text>
+<text x="40" y="266" font-family="IBM Plex Mono, Consolas, monospace" font-size="11" fill="#6B9EFF" letter-spacing="2">HUMAN-DIRECTED. AI-ENABLED. COMMERCIALLY TESTED.</text>
+<rect x="1000" y="120" width="24" height="150" rx="3" fill="#1B4FD8"/>
+<rect x="1040" y="170" width="24" height="100" rx="3" fill="#6B9EFF"/>
+<rect x="1080" y="90" width="24" height="180" rx="3" fill="#3D4A78"/>
+<rect x="1120" y="200" width="24" height="70" rx="3" fill="#6B9EFF"/>
+<rect x="1160" y="140" width="24" height="130" rx="3" fill="#1B4FD8"/>
+</svg>

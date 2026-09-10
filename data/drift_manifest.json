@@ -2,5 +2,15 @@
   "docs/registry/source-register.md": "bf6a1d6183f01638ccd929ccd419c8ad179d5226513ac23c567dc08ca1a4b64f",
   "docs/assets/narrative-flow.svg": "d25d5e4c91a6e99f27a5f1aebe8a958115e8d7c503fc555c765326823268cb9d",
   "docs/assets/framework-placement.svg": "61860e3a0d2457fc75da6708c1ed62a43835b50aab0c5cd67c1d5ac2100eaf8c",
-  "docs/assets/vocabulary-migration.svg": "e785f83855b88537b8eb0a0cb3e881b03ff313f0a62e15cd4314070c282fbdc0"
+  "docs/assets/vocabulary-migration.svg": "e785f83855b88537b8eb0a0cb3e881b03ff313f0a62e15cd4314070c282fbdc0",
+  "docs/assets/readme-banner.svg": "afb8725f4078615e9b703bffecbaf41ed8c631f53041781fcfc41b8a113ee7b8",
+  "docs/assets/readme-badge-gates.svg": "b71aade48fd8e2e25e248835e010438e4469667aa5aefafc1d81864372aca0e1",
+  "docs/assets/readme-badge-license.svg": "0f54cf753237431c84f23217ef90d200bf1839c4badcd44c32855ebb6bfb70e3",
+  "docs/assets/readme-badge-artifacts.svg": "1342acd89fcd445336c5d4e8971a3258935a6718964f16f96d41f2ccd193097e",
+  "docs/assets/readme-badge-python.svg": "d81e5f99878b682f4ba58c93391df060d229412b4b81d0501085d614f7e590ee",
+  "docs/assets/readme-sample-exhibit.svg": "b9c7009e44b6d0bb6c15d9616f73a6ec46cc535f9ae405bc84c7a997092c7a02",
+  "docs/assets/readme-page-wireframe.svg": "bf6f591f768547fb3ff5e0c8f265885a70042f1d5e943f57a2f709b5a8b5f4e2",
+  "docs/assets/readme-evidence-waffle.svg": "d32680d6ecfd1f8aeaf6a762d45440363f0448a27a1127b8682771301fa71870",
+  "docs/assets/readme-artifact-mix.svg": "f4bc3a171963992e338dbc92fe3b2fe26cc182747108fcd7de35f35abcbfc5fb",
+  "docs/assets/readme-stencil-pipeline.svg": "e5ec5175b20b531ed999cbd6b4d3610badd1d70b26d88ba6300a2891113b988f"
 }
