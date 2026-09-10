@@ -1,0 +1,15 @@
+Content License
+
+All prose content in docs/ and ADRs/ is licensed under Creative Commons
+Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: Barry Hurd Intelligence Lab (BHIL), Inside QuantumBlack study.
+
+Code, schemas, and tooling in tools/, tests/, data/, and workflow files are
+licensed under the MIT License (see LICENSE).
+
+This repository is an analytical study of public materials. It records
+structure, sequence, chart types, and phrase patterns as observations.
+It does not grant, and BHIL does not hold, any rights to McKinsey and
+Company or QuantumBlack trademarks, logos, or trade dress.

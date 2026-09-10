@@ -1,0 +1,52 @@
+site_name: Inside QuantumBlack
+site_description: A designer field guide to how McKinsey QuantumBlack strategically communicates. A BHIL STENCIL study of 32 public artifacts.
+site_author: Barry Hurd Intelligence Lab
+repo_name: BHIL-Inside-QuantumBlack
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+  features:
+    - navigation.sections
+    - navigation.footer
+    - content.code.copy
+extra_css:
+  - assets/extra.css
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Method:
+      - The STENCIL method: method/stencil-method.md
+      - Evidence discipline: method/evidence-discipline.md
+      - IP firewall: method/ip-firewall.md
+  - Field guide:
+      - The core pattern: guide/01-core-pattern.md
+      - Source corpus: guide/02-source-corpus.md
+      - Five visual fingerprints: guide/03-visual-fingerprints.md
+      - Exhibit grammar: guide/04-exhibit-grammar.md
+      - Chart families: guide/05-chart-families.md
+      - Framework placement: guide/06-framework-placement.md
+      - Page architecture: guide/07-page-architecture.md
+      - Density by artifact type: guide/08-density.md
+      - Lexicon and register: guide/09-lexicon-register.md
+      - The case pattern: guide/10-case-pattern.md
+      - Publishing cadence: guide/11-publishing-cadence.md
+      - Credibility devices: guide/12-credibility-devices.md
+  - Build recipes:
+      - Survey report: recipes/survey-report.md
+      - Paradox essay: recipes/paradox-essay.md
+      - Trend compendium: recipes/trend-compendium.md
+      - Build checklist: recipes/build-checklist.md
+  - Registry:
+      - Source register: registry/source-register.md
+      - QA ledger: registry/qa-ledger.md

@@ -1,0 +1,8 @@
+:root {
+  --md-primary-fg-color: #1B4FD8;
+  --md-primary-fg-color--dark: #0F2F8A;
+  --md-accent-fg-color: #6B9EFF;
+}
+.md-header, .md-tabs { background-color: #1C1C2E; }
+.md-typeset h1, .md-typeset h2 { color: #1C1C2E; }
+.md-typeset .admonition.note { border-color: #1B4FD8; }

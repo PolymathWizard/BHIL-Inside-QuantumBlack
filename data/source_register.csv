@@ -1,0 +1,33 @@
+id,title,taxonomy,date,locator,discovery,access,tier,notes
+STN-MCK-001,The state of AI in 2026: On the road to ROI,T1,2026-08-25,mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai,SW1,OPEN-PDF,VERIFIED,Canonical URL serves current edition
+STN-MCK-002,The state of AI in 2025: Agents innovation and transformation,T1,2025,mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai,SW1/SW2,OPEN-PDF,VERIFIED,Distinct artifact superseded at canonical URL
+STN-MCK-003,The state of AI: How organizations are rewiring to capture value,T1,2025-03-12,mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-how-organizations-are-rewiring-to-capture-value,SW1,OPEN-PDF,VERIFIED,
+STN-MCK-004,The state of AI in early 2024: Gen AI adoption spikes,T1,2024-05-30,mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2024,SW1,OPEN-PDF,VERIFIED,
+STN-MCK-005,McKinsey Technology Trends Outlook 2025,T1,2025-07-22,mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech,SW1/SW2,OPEN-PDF,VERIFIED,Fifth annual edition 108 pages
+STN-MCK-006,The economic potential of generative AI,T1,2023-06,mckinsey.com/capabilities/quantumblack/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier,SW1,OPEN-PDF,VERIFIED,FLAG pre-window edge retained as foundational
+STN-MCK-007,Superagency in the workplace,T1,2025-01-28,mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace,SW1,OPEN,CORROBORATED,Locator truncated in research artifact
+STN-MCK-008,Seizing the agentic AI advantage,T1,2025-06,mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage,SW1,OPEN-PDF,VERIFIED,28 pages
+STN-MCK-009,The next big arenas of competition,T1,2024-10,mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition,SW1,OPEN-PDF,VERIFIED,213 pages
+STN-MCK-010,The race takes off in the next big arenas,T1,2025,mckinsey.com/mgi/our-research/the-race-takes-off-in-the-next-big-arenas-of-competition,SW1,OPEN,CORROBORATED,
+STN-MCK-011,A data leader technical guide to scaling gen AI,T1,2024,mckinsey.com/capabilities/tech-and-ai/our-insights/a-data-leaders-technical-guide-to-scaling-gen-ai,SW1,OPEN,CORROBORATED,Dual T1/T4
+STN-MCK-012,Charting a path to the data and AI driven enterprise of 2030,T1,2024,mckinsey.com/capabilities/tech-and-ai/our-insights/charting-a-path-to-the-data-and-ai-driven-enterprise-of-2030,SW1,OPEN,CORROBORATED,
+STN-MCK-013,A generative AI reset: Rewiring to turn potential into value,T1,2024,mckinsey.com/capabilities/tech-and-ai/our-insights/a-generative-ai-reset-rewiring-to-turn-potential-into-value-in-2024,SW1,OPEN,CORROBORATED,
+STN-MCK-014,Gen AI in corporate functions,T1,2024,mckinsey.com/capabilities/operations/our-insights/gen-ai-in-corporate-functions-looking-beyond-efficiency-gains,SW1,OPEN,CORROBORATED,
+STN-MCK-015,Rewired: outcompeting in the age of digital and AI,T1,2023-06,Wiley and McKinsey commercial publication,SW1/SW5,BOOK,CORROBORATED,FLAG pre-window edge retained as foundational
+STN-MCK-016,Merck MSD gen AI clinical study reports,T2,2025-06-25,merck.com/news and mckinsey.com/about-us/new-at-mckinsey-blog/reimagining-regulatory-with-gen-ai,SW1/SW5,OPEN,VERIFIED,Named client. Outcome figures STATED
+STN-MCK-017,Toshiba Tec with McKinsey and NVIDIA retail data,T2,2024,mckinsey.com/capabilities/quantumblack,SW1,OPEN,UNCORROBORATED,Thin marketing case card
+STN-MCK-018,Deutsche Telekom capability building engine,T2,2024,mckinsey.com/capabilities/quantumblack/how-we-help-clients,SW1,OPEN,UNCORROBORATED,Thin case card house branded
+STN-MCK-019,Telecom employee AI training and coaching,T2,2024,mckinsey.com/capabilities/quantumblack,SW1,OPEN,UNCORROBORATED,Thin case card
+STN-MCK-020,QuantumBlack Horizon banking transactions use case,T2,2024,medium.com/quantumblack,SW1/SW5,OPEN,CORROBORATED,Technical post
+STN-MCK-021,Generative AI on demand webinar,T3,2024,mckinsey.com/capabilities/quantumblack/how-we-help-clients/generative-ai/on-demand,SW4,OPEN,CORROBORATED,With Iguazio and Databricks
+STN-MCK-022,MGI virtual event replay: arenas of competition,T3,2024,mckinsey.com/mgi/overview/virtual-event-replays,SW1/SW4,OPEN,CORROBORATED,
+STN-MCK-023,Agentic AI Mesh: agents at scale,T4,2025,medium.com/quantumblack,SW1/SW5,OPEN,CORROBORATED,Five composable principles
+STN-MCK-024,Empowering advanced industries with agentic AI,T4,2025,mckinsey.com/industries/automotive-and-assembly/our-insights/empowering-advanced-industries-with-agentic-ai,SW1,OPEN,CORROBORATED,
+STN-MCK-025,Gen AI: three key questions for government agencies,T4,2024,mckinsey.com/industries/public-sector/our-insights/unlocking-the-potential-of-generative-ai-three-key-questions,SW1,OPEN,CORROBORATED,Locator truncated in research artifact
+STN-MCK-026,Hybrid Intelligence: the QuantumBlack approach,T4,2024,mckinsey.com/capabilities/quantumblack/our-approach,SW1,OPEN,STATED,Firm self positioning quarantined
+STN-MCK-027,IRS call center workforce management consulting,T5,2024-05-31 to 2025-03-02,usaspending.gov PIID 2032H824F00088 parent IDV 47QRAA22D00E3,SW3,RECORD,VERIFIED,Value 2190167.71 USD
+STN-MCK-028,FDA Sentinel Initiative CDER regulatory workflows,T5,2015-07-15 to 2017-01-19,usaspending.gov PIID HHSF22315005 BPA HHSF223201010014B,SW3,RECORD,VERIFIED,FLAG historical. Value 2641440.88 USD
+STN-MCK-029,Texas DIR DBITS cooperative contract,T5,2025 to 2026,dir.texas.gov/contracts/dir-cpo-5906,SW3,RECORD,VERIFIED,Tech Category 2. No published ceiling
+STN-MCK-030,New York State DOB business transformation services,T5,2011-08-10 to 2016-08-09,NY OSC Open Book contract C000410,SW3,RECORD,VERIFIED,FLAG historical. Value 38822046 USD
+STN-MCK-031,Week in Charts: leaders underestimate employees AI use,T6,2025-03-04,mckinsey.com/featured-insights/week-in-charts/leaders-underestimate-employees-ai-use,SW1,OPEN,CORROBORATED,
+STN-MCK-032,Capturing the next big arenas of competition in ten charts,T6,2025,mckinsey.com/mgi/our-research/capturing-the-next-big-arenas-of-competition-in-ten-charts,SW1,OPEN,CORROBORATED,
